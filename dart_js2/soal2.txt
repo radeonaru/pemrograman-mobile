@@ -1,0 +1,6 @@
+Soal 2
+Mengapa sangat penting untuk memahami bahasa pemrograman Dart sebelum kita menggunakan framework Flutter ? Jelaskan!
+
+Jawab :
+Karena, Semua pengembangan framework Flutter melibatkan pengetahuan/fitur mendalam dengan bahasa Dart,
+seperti kode aplikasi, kode plugin, dan manajemen dependensi semuanya menggunakan bahasa Dart beserta fitur-fiturnya.
